@@ -1,11 +1,11 @@
 let gb : GitBotInit;
  
-fn do_initialize_git()->
+fn do_initialize_git()
 {
  gb.GitInit("");
 }
 
-fn do_add_files(file : string)->
+fn do_add_files(file : string)
 {
  gb.GitAddFile(file);
  }
@@ -16,12 +16,12 @@ fn do_add_files(file : string)->
     gb.GitRemoteToOrigin(url_main);
  }
  
- fn upload_all_files()->
+ fn upload_all_files()
  {
     gb.GitUploadFiles(); // git push origin ..
  }
  
- fn download_files()->
+ fn download_files()
  {
    gb.GitDownloadFiles(); // git pull origin ..
  }
