@@ -1,4 +1,0 @@
-With respect to my dad and for her robo girl, actually this is video i have uploaded because of half done GitBot software you can access git through it and soon,
-I will upload its application and my next project will be the machine learning tool like DeepLearningKit or Shogun or Keras.io actually it will be the UI based 
-software in which we can perform machine learning operations supervised, unsupervised, reinforcement techniques regression, k-means and importing csv and xls files
-like we do with the help of pandas & plotting you can choose by options like bar, hist, scatter etc the whole [Machine Learning] product.
